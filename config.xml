@@ -20,7 +20,7 @@
   <preference name="android-minSdkVersion" value="7"/>
   <preference name="android-installLocation" value="auto"/>
   
-<preference name="AndroidPersistentFileLocation" value="Compatibility" />
+<preference name="phonegap-version" value="cli-5.2.0" />
 
 <preference name="SplashMaintainAspectRatio" value="true|false" />
 <preference name="SplashShowOnlyFirstTime" value="false" />
