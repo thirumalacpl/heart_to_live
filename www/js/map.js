@@ -4,9 +4,9 @@ navigator.geolocation.getCurrentPosition(onSuccess, onError);
 function onSuccess(position) {
 var element = document.getElementById('map');
 lati = position.coords.latitude;
-alert(lati+'lati');
+//alert(lati+'lati');
 long = position.coords.longitude;
-alert(long+'long');
+//alert(long+'long');
 initMap();
 }
 function onError(error) {
